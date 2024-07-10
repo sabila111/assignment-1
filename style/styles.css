@@ -190,7 +190,8 @@ line-height: 19px;
 /* section 4 */
 
 .support-container{
-    background-image:  url("../assets/handshake.jpg");
+    background-image:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%),  url("../assets/handshake.jpg");
+    
     background-repeat: none;
     background-size: cover;
     height: 350px;
